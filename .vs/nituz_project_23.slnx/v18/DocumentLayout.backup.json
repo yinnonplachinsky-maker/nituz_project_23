@@ -1,0 +1,576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\createinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\createinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\createinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\createinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\crudinventoryitemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\crudinventoryitemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\customerlandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\customerlandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\writeareview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\writeareview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\writeareview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\writeareview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\timeslotstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\timeslotstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\timeslotpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\timeslotpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\timeslotpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\timeslotpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\submitselfevaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\submitselfevaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\submitselfevaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\submitselfevaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\sql_con.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\sql_con.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\servicecallstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\servicecallstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\servicecall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\servicecall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\ownerlandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\ownerlandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\ownerlandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\ownerlandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\myappmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\myappmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\itemcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\itemcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\getitemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\getitemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\getitemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\getitemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\customerlandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\customerlandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\crudinventoryitemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\crudinventoryitemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|c:\\users\\yinnon\\desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F848B17-12E9-414E-8FE9-3D8CF46F36A2}|nituz_project_23\\nituz_project_23.csproj|solutionrelative:nituz_project_23\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WriteAReview.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\WriteAReview.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\WriteAReview.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\WriteAReview.cs [Design]",
+              "RelativeToolTip": "nituz_project_23\\WriteAReview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:36:33.879Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\LoginScreen.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\LoginScreen.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\LoginScreen.cs [Design]",
+              "RelativeToolTip": "nituz_project_23\\LoginScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:31:12.884Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\LoginScreen.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\LoginScreen.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\LoginScreen.cs",
+              "RelativeToolTip": "nituz_project_23\\LoginScreen.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAtwFkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:31:19.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateInventoryItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\CreateInventoryItem.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\CreateInventoryItem.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\CreateInventoryItem.cs [Design]*",
+              "RelativeToolTip": "nituz_project_23\\CreateInventoryItem.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:28:59.901Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerLandingPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\CustomerLandingPage.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\CustomerLandingPage.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\CustomerLandingPage.cs [Design]",
+              "RelativeToolTip": "nituz_project_23\\CustomerLandingPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:29:27.089Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrudInventoryItemMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\CrudInventoryItemMenu.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\CrudInventoryItemMenu.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\CrudInventoryItemMenu.cs [Design]",
+              "RelativeToolTip": "nituz_project_23\\CrudInventoryItemMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:29:21.94Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateInventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\CreateInventoryItem.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\CreateInventoryItem.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\CreateInventoryItem.cs*",
+              "RelativeToolTip": "nituz_project_23\\CreateInventoryItem.cs*",
+              "ViewState": "AgIAAIIAAAAAAAAAAIA+wIMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:29:00.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WriteAReview.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\WriteAReview.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\WriteAReview.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\WriteAReview.cs",
+              "RelativeToolTip": "nituz_project_23\\WriteAReview.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAIwEwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:36:37.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\UserRole.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\UserRole.cs",
+              "RelativeToolTip": "nituz_project_23\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:36:28.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TimeSlotPicker.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\TimeSlotPicker.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\TimeSlotPicker.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\TimeSlotPicker.cs",
+              "RelativeToolTip": "nituz_project_23\\TimeSlotPicker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:36:16.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimeSlotPicker.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\TimeSlotPicker.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\TimeSlotPicker.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\TimeSlotPicker.cs [Design]",
+              "RelativeToolTip": "nituz_project_23\\TimeSlotPicker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:36:15.672Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubmitSelfEvaluation.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\SubmitSelfEvaluation.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\SubmitSelfEvaluation.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\SubmitSelfEvaluation.cs",
+              "RelativeToolTip": "nituz_project_23\\SubmitSelfEvaluation.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAIwJIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:35:13.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SubmitSelfEvaluation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\SubmitSelfEvaluation.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\SubmitSelfEvaluation.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\SubmitSelfEvaluation.cs [Design]",
+              "RelativeToolTip": "nituz_project_23\\SubmitSelfEvaluation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:35:11.937Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SQL_CON.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\SQL_CON.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\SQL_CON.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\SQL_CON.cs",
+              "RelativeToolTip": "nituz_project_23\\SQL_CON.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:35:06.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceCallStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\ServiceCallStatus.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\ServiceCallStatus.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\ServiceCallStatus.cs",
+              "RelativeToolTip": "nituz_project_23\\ServiceCallStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:35:05.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServiceCall.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\ServiceCall.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\ServiceCall.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\ServiceCall.cs",
+              "RelativeToolTip": "nituz_project_23\\ServiceCall.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwBYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:34:44.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\Review.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\Review.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\Review.cs",
+              "RelativeToolTip": "nituz_project_23\\Review.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAwwEwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:34:16.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimeSlotStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\TimeSlotStatus.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\TimeSlotStatus.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\TimeSlotStatus.cs",
+              "RelativeToolTip": "nituz_project_23\\TimeSlotStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T20:42:44.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\Program.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\Program.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\Program.cs",
+              "RelativeToolTip": "nituz_project_23\\Program.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAAAgwLAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:32:46.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OwnerLandingPage.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\OwnerLandingPage.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\OwnerLandingPage.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\OwnerLandingPage.cs",
+              "RelativeToolTip": "nituz_project_23\\OwnerLandingPage.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA3wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:31:38.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TimeSlot.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\TimeSlot.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\TimeSlot.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\TimeSlot.cs",
+              "RelativeToolTip": "nituz_project_23\\TimeSlot.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T20:51:07.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OwnerLandingPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\OwnerLandingPage.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\OwnerLandingPage.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\OwnerLandingPage.cs [Design]",
+              "RelativeToolTip": "nituz_project_23\\OwnerLandingPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:31:36.995Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MyAppManager.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\MyAppManager.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\MyAppManager.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\MyAppManager.cs",
+              "RelativeToolTip": "nituz_project_23\\MyAppManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:31:35.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ItemCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\ItemCategory.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\ItemCategory.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\ItemCategory.cs",
+              "RelativeToolTip": "nituz_project_23\\ItemCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:31:10.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\InventoryItem.cs",
+              "RelativeToolTip": "nituz_project_23\\InventoryItem.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwvyAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:30:55.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetItemDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\GetItemDetails.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\GetItemDetails.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\GetItemDetails.cs",
+              "RelativeToolTip": "nituz_project_23\\GetItemDetails.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAIwMoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:29:46.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetItemDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\GetItemDetails.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\GetItemDetails.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\GetItemDetails.cs [Design]",
+              "RelativeToolTip": "nituz_project_23\\GetItemDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:29:44.856Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerLandingPage.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\CustomerLandingPage.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\CustomerLandingPage.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\CustomerLandingPage.cs",
+              "RelativeToolTip": "nituz_project_23\\CustomerLandingPage.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:29:28.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CrudInventoryItemMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\CrudInventoryItemMenu.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\CrudInventoryItemMenu.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\CrudInventoryItemMenu.cs",
+              "RelativeToolTip": "nituz_project_23\\CrudInventoryItemMenu.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:29:22.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Calendar.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\Calendar.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\Calendar.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\Calendar.cs",
+              "RelativeToolTip": "nituz_project_23\\Calendar.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwEMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:28:52.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Calendar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\Calendar.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\Calendar.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\Calendar.cs [Design]",
+              "RelativeToolTip": "nituz_project_23\\Calendar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:28:51.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\Customer.cs",
+              "RelativeDocumentMoniker": "nituz_project_23\\Customer.cs",
+              "ToolTip": "C:\\Users\\Yinnon\\Desktop\\nituz_project_23\\nituz_project_23\\nituz_project_23\\Customer.cs",
+              "RelativeToolTip": "nituz_project_23\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T02:45:31.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

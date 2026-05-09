@@ -1,0 +1,63 @@
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.csproj.AssemblyReference.cache
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.Calendar.resources
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.CreateInventoryItem.resources
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.CrudInventoryItemMenu.resources
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.CustomerLandingPage.resources
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.TimeSlotPicker.resources
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.GetItemDetails.resources
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.LoginScreen.resources
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.OwnerLandingPage.resources
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.SubmitSelfEvaluation.resources
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.WriteAReview.resources
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.csproj.GenerateResource.cache
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.Properties.Resources.resources
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.csproj.CoreCompileInputs.cache
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\bin\Debug\CreateInventoryItem.resx
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\bin\Debug\CreateInventoryItem.cs
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\bin\Debug\CreateInventoryItem.Designer.cs
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\bin\Debug\nituz_project_23.exe.config
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\bin\Debug\nituz_project_23.exe
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\bin\Debug\nituz_project_23.pdb
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.exe
+C:\Users\Yinnon\source\repos\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.pdb
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.csproj.AssemblyReference.cache
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.exe
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.pdb
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\CreateInventoryItem.resx
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\CreateInventoryItem.cs
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\CreateInventoryItem.Designer.cs
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\nituz_project_23.exe.config
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\nituz_project_23.exe
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\nituz_project_23.pdb
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.Calendar.resources
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.CreateInventoryItem.resources
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.CrudInventoryItemMenu.resources
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.CustomerLandingPage.resources
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.TimeSlotPicker.resources
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.GetItemDetails.resources
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.LoginScreen.resources
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.OwnerLandingPage.resources
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.Properties.Resources.resources
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.SubmitSelfEvaluation.resources
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.WriteAReview.resources
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.csproj.GenerateResource.cache
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\obj\Debug\nituz_project_23.csproj.CoreCompileInputs.cache
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\chose time.png
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\create new inventory 2.png
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\create new inventory.png
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\create new item.png
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\Delete item.png
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\get inventory.png
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\google.png
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\log in.png
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\make a review.png
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\manage inventory item.png
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\self evaluation.png
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\send a job request.png
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\submit review.png
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\Update Item.png
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\בהיר עץ לבן.jpg
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\רקע עץ עמוק.jpg
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\רקע עץ cvhr.avif
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\update review.png
+C:\Users\Yinnon\Desktop\nituz_project_23\nituz_project_23\nituz_project_23\bin\Debug\Images\update self evaluation.png

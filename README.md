@@ -1,0 +1,1 @@
+Designed and analyzed an information system prototype for a handyman & carpentry business as part of my 3rd-year Industrial Engineering & Management studies at Ben-Gurion University of the Negev. The project included business process analysis, system requirements, digital workflow design, and operational improvement planning.
